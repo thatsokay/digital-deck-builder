@@ -1,0 +1,322 @@
+[
+    {
+        "quantity": 2,
+        "card": {
+            "name": "2",
+            "color": "green",
+            "cost": {
+                "green": 1
+            },
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "resource",
+                        "description": "2 Green.",
+                        "args": {
+                            "green": 2
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "quantity": 2,
+        "card": {
+            "name": "2",
+            "color": "red",
+            "cost": {
+                "red": 1
+            },
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "resource",
+                        "description": "2 Red.",
+                        "args": {
+                            "red": 2
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "quantity": 2,
+        "card": {
+            "name": "2",
+            "color": "yellow",
+            "cost": {
+                "yellow": 1
+            },
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "resource",
+                        "description": "2 Yellow.",
+                        "args": {
+                            "yellow": 2
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "quantity": 2,
+        "card": {
+            "name": "2",
+            "color": "blue",
+            "cost": {
+                "blue": 1
+            },
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "resource",
+                        "description": "2 Blue.",
+                        "args": {
+                            "blue": 2
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "quantity": 2,
+        "card": {
+            "name": "Discard 2",
+            "color": "green",
+            "cost": {
+                "green": 2
+            },
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "discard",
+                        "description": "Opponent discards 2.",
+                        "args": {
+                            "discard": 2
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "quantity": 2,
+        "card": {
+            "name": "Discard 2",
+            "color": "red",
+            "cost": {
+                "red": 2
+            },
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "discard",
+                        "description": "Opponent discards 2.",
+                        "args": {
+                            "discard": 2
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "quantity": 2,
+        "card": {
+            "name": "Discard 2",
+            "color": "yellow",
+            "cost": {
+                "yellow": 2
+            },
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "discard",
+                        "description": "Opponent discards 2.",
+                        "args": {
+                            "discard": 2
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "quantity": 2,
+        "card": {
+            "name": "Discard 2",
+            "color": "blue",
+            "cost": {
+                "blue": 2
+            },
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "discard",
+                        "description": "Opponent discards 2.",
+                        "args": {
+                            "discard": 2
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "quantity": 2,
+        "card": {
+            "name": "Skip",
+            "color": "green",
+            "cost": {
+                "green": 2
+            },
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "skip",
+                        "description": "Skip your opponent's turn.",
+                        "args": {}
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "quantity": 2,
+        "card": {
+            "name": "Skip",
+            "color": "red",
+            "cost": {
+                "red": 2
+            },
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "skip",
+                        "description": "Skip your opponent's turn.",
+                        "args": {}
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "quantity": 2,
+        "card": {
+            "name": "Skip",
+            "color": "yellow",
+            "cost": {
+                "yellow": 2
+            },
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "skip",
+                        "description": "Skip your opponent's turn.",
+                        "args": {}
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "quantity": 2,
+        "card": {
+            "name": "Skip",
+            "color": "blue",
+            "cost": {
+                "blue": 2
+            },
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "skip",
+                        "description": "Skip your opponent's turn.",
+                        "args": {}
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "quantity": 2,
+        "card": {
+            "name": "Swap",
+            "color": "green",
+            "cost": {
+                "green": 2
+            },
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "swap",
+                        "description": "Swap hands with your opponent.",
+                        "args": {}
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "quantity": 2,
+        "card": {
+            "name": "Swap",
+            "color": "red",
+            "cost": {
+                "red": 2
+            },
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "swap",
+                        "description": "Swap hands with your opponent.",
+                        "args": {}
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "quantity": 2,
+        "card": {
+            "name": "Swap",
+            "color": "yellow",
+            "cost": {
+                "yellow": 2
+            },
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "swap",
+                        "description": "Swap hands with your opponent.",
+                        "args": {}
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "quantity": 2,
+        "card": {
+            "name": "Swap",
+            "color": "blue",
+            "cost": {
+                "blue": 2
+            },
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "swap",
+                        "description": "Swap hands with your opponent.",
+                        "args": {}
+                    }
+                ]
+            }
+        }
+    }
+]

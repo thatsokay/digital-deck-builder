@@ -1,0 +1,478 @@
+[
+    {
+        "quantity": 3,
+        "card": {
+            "name": "Blob Fighter",
+            "card_type": "Ship",
+            "faction": "Blob",
+            "cost": {
+                "trade": 1
+            },
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "resource",
+                        "description": "3 Combat.",
+                        "args": {
+                            "combat": 3
+                        }
+                    }
+                ],
+                "ally": [
+                    {
+                        "ability_type": "draw",
+                        "description": "Draw a card.",
+                        "args": {
+                            "draw": 1
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "quantity": 2,
+        "card": {
+            "name": "Battle Pod",
+            "card_type": "Ship",
+            "faction": "Blob",
+            "cost": {
+                "trade": 2
+            },
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "resource",
+                        "description": "4 Combat.",
+                        "args": {
+                            "combat": 4
+                        }
+                    },
+                    {
+                        "ability_type": "scrap_trade",
+                        "description": "You may scrap a card in the trade row.",
+                        "args": {}
+                    }
+                ],
+                "ally": [
+                    {
+                        "ability_type": "resource",
+                        "description": "2 Combat.",
+                        "args": {
+                            "combat": 2
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "quantity": 3,
+        "card": {
+            "name": "Trade Pod",
+            "card_type": "Ship",
+            "faction": "Blob",
+            "cost": {
+                "trade": 2
+            },
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "resource",
+                        "description": "3 Trade.",
+                        "args": {
+                            "trade": 3
+                        }
+                    }
+                ],
+                "ally": [
+                    {
+                        "ability_type": "resource",
+                        "description": "2 Combat.",
+                        "args": {
+                            "combat": 2
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "quantity": 3,
+        "card": {
+            "name": "Blob Wheel",
+            "card_type": "Base",
+            "faction": "Blob",
+            "cost": {
+                "trade": 3
+            },
+            "defense": 5,
+            "outpost": false,
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "resource",
+                        "description": "1 Combat.",
+                        "args": {
+                            "combat": 1
+                        }
+                    }
+                ],
+                "scrap": [
+                    {
+                        "ability_type": "resource",
+                        "description": "3 Trade.",
+                        "args": {
+                            "trade": 3
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "quantity": 3,
+        "card": {
+            "name": "Trade Bot",
+            "card_type": "Ship",
+            "faction": "Machine Cult",
+            "cost": {
+                "trade": 1
+            },
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "resource",
+                        "description": "1 Trade.",
+                        "args": {
+                            "trade": 1
+                        }
+                    },
+                    {
+                        "ability_type": "scrap_hand_discard",
+                        "description": "Scrap a card in your hand.",
+                        "args": {}
+                    }
+                ],
+                "ally": [
+                    {
+                        "ability_type": "resource",
+                        "description": "2 Combat.",
+                        "args": {
+                            "combat": 2
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "quantity": 3,
+        "card": {
+            "name": "Missile Bot",
+            "card_type": "Ship",
+            "faction": "Machine Cult",
+            "cost": {
+                "trade": 2
+            },
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "resource",
+                        "description": "2 Combat.",
+                        "args": {
+                            "combat": 2
+                        }
+                    },
+                    {
+                        "ability_type": "scrap_hand_discard",
+                        "description": "Scrap a card in your hand.",
+                        "args": {}
+                    }
+                ],
+                "ally": [
+                    {
+                        "ability_type": "resource",
+                        "description": "2 Combat.",
+                        "args": {
+                            "combat": 2
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "quantity": 2,
+        "card": {
+            "name": "Battle Station",
+            "card_type": "Base",
+            "faction": "Machine Cult",
+            "cost": {
+                "trade": 3
+            },
+            "defense": 5,
+            "outpost": true,
+            "abilities": {
+                "scrap": [
+                    {
+                        "ability_type": "resource",
+                        "description": "5 Combat.",
+                        "args": {
+                            "combat": 5
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "quantity": 3,
+        "card": {
+            "name": "Imperial Fighter",
+            "card_type": "Ship",
+            "faction": "Star Empire",
+            "cost": {
+                "trade": 1
+            },
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "resource",
+                        "description": "2 Combat.",
+                        "args": {
+                            "combat": 2
+                        }
+                    },
+                    {
+                        "ability_type": "opponent_discard",
+                        "description": "Opponent discards a card.",
+                        "args": {}
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "quantity": 2,
+        "card": {
+            "name": "Corvette",
+            "card_type": "Ship",
+            "faction": "Star Empire",
+            "cost": {
+                "trade": 2
+            },
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "resource",
+                        "description": "1 Combat.",
+                        "args": {
+                            "combat": 1
+                        }
+                    },
+                    {
+                        "ability_type": "draw",
+                        "description": "Draw a card.",
+                        "args": {
+                            "draw": 1
+                        }
+                    }
+                ],
+                "ally": [
+                    {
+                        "ability_type": "resource",
+                        "description": "2 Combat.",
+                        "args": {
+                            "combat": 2
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "quantity": 2,
+        "card": {
+            "name": "Imperial Frigate",
+            "card_type": "Ship",
+            "faction": "Star Empire",
+            "cost": {
+                "trade": 3
+            },
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "resource",
+                        "description": "4 Combat.",
+                        "args": {
+                            "combat": 4
+                        }
+                    },
+                    {
+                        "ability_type": "opponent_discard",
+                        "description": "Opponent discards a card.",
+                        "args": {}
+                    }
+                ],
+                "ally": [
+                    {
+                        "ability_type": "resource",
+                        "description": "2 Combat.",
+                        "args": {
+                            "combat": 2
+                        }
+                    }
+                ],
+                "scrap": [
+                    {
+                        "ability_type": "draw",
+                        "description": "Draw a card.",
+                        "args": {
+                            "draw": 1
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "quantity": 3,
+        "card": {
+            "name": "Survey Ship",
+            "card_type": "Ship",
+            "faction": "Star Empire",
+            "cost": {
+                "trade": 3
+            },
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "resource",
+                        "description": "1 Trade.",
+                        "args": {
+                            "trade": 1
+                        }
+                    },
+                    {
+                        "ability_type": "draw",
+                        "description": "Draw a card.",
+                        "args": {
+                            "draw": 1
+                        }
+                    }
+                ],
+                "scrap": [
+                    {
+                        "ability_type": "opponent_discard",
+                        "description": "Opponent discards a card.",
+                        "args": {}
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "quantity": 3,
+        "card": {
+            "name": "Federation Shuttle",
+            "card_type": "Ship",
+            "faction": "Trade Federation",
+            "cost": {
+                "trade": 1
+            },
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "resource",
+                        "description": "2 Trade.",
+                        "args": {
+                            "trade": 2
+                        }
+                    }
+                ],
+                "ally": [
+                    {
+                        "ability_type": "objective",
+                        "description": "4 Authority.",
+                        "args": {
+                            "authority": 4
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "quantity": 3,
+        "card": {
+            "name": "Cutter",
+            "card_type": "Ship",
+            "faction": "Trade Federation",
+            "cost": {
+                "trade": 2
+            },
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "objective",
+                        "description": "4 Authority.",
+                        "args": {
+                            "authority": 4
+                        }
+                    },
+                    {
+                        "ability_type": "resource",
+                        "description": "2 Trade.",
+                        "args": {
+                            "trade": 2
+                        }
+                    }
+                ],
+                "ally": [
+                    {
+                        "ability_type": "resource",
+                        "description": "4 Combat.",
+                        "args": {
+                            "combat": 4
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "quantity": 2,
+        "card": {
+            "name": "Embassy Yacht",
+            "card_type": "Ship",
+            "faction": "Trade Federation",
+            "cost": {
+                "trade": 3
+            },
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "objective",
+                        "description": "3 Authority.",
+                        "args": {
+                            "authority": 3
+                        }
+                    },
+                    {
+                        "ability_type": "resource",
+                        "description": "2 Trade.",
+                        "args": {
+                            "trade": 2
+                        }
+                    },
+                    {
+                        "ability_type": "embassy_yacht",
+                        "description": "If you have two or more bases in play, draw two cards.",
+                        "args": {}
+                    }
+                ]
+            }
+        }
+    }
+]

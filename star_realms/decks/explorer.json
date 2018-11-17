@@ -1,0 +1,33 @@
+[
+    {
+        "quantity": 1,
+        "card": {
+            "name": "Explorer",
+            "card_type": "Ship",
+            "faction": null,
+            "cost": {
+                "trade": 2
+            },
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "resource",
+                        "description": "2 Trade.",
+                        "args": {
+                            "trade": 2
+                        }
+                    }
+                ],
+                "scrap": [
+                    {
+                        "ability_type": "resource",
+                        "description": "2 Combat",
+                        "args": {
+                            "combat": 2
+                        }
+                    }
+                ]
+            }
+        }
+    }
+]

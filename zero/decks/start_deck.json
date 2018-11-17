@@ -1,0 +1,78 @@
+[
+    {
+        "quantity": 2,
+        "card": {
+            "name": "1",
+            "color": "green",
+            "cost": {},
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "resource",
+                        "description": "1 Green.",
+                        "args": {
+                            "green": 1
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "quantity": 2,
+        "card": {
+            "name": "1",
+            "color": "red",
+            "cost": {},
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "resource",
+                        "description": "1 Red.",
+                        "args": {
+                            "red": 1
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "quantity": 2,
+        "card": {
+            "name": "1",
+            "color": "yellow",
+            "cost": {},
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "resource",
+                        "description": "1 Yellow.",
+                        "args": {
+                            "yellow": 1
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "quantity": 2,
+        "card": {
+            "name": "1",
+            "color": "blue",
+            "cost": {},
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "resource",
+                        "description": "1 Blue.",
+                        "args": {
+                            "blue": 1
+                        }
+                    }
+                ]
+            }
+        }
+    }
+]

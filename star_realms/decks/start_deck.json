@@ -1,0 +1,42 @@
+[
+    {
+        "quantity": 8,
+        "card": {
+            "name": "Scout",
+            "card_type": "Ship",
+            "faction": null,
+            "cost": {},
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "resource",
+                        "description": "1 Trade.",
+                        "args": {
+                            "trade": 1
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "quantity": 2,
+        "card": {
+            "name": "Viper",
+            "card_type": "Ship",
+            "faction": null,
+            "cost": {},
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "resource",
+                        "description": "1 Combat.",
+                        "args": {
+                            "combat": 1
+                        }
+                    }
+                ]
+            }
+        }
+    }
+]

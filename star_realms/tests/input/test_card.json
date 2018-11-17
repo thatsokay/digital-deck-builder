@@ -1,0 +1,41 @@
+{
+    "name": "name",
+    "card_type": "Ship",
+    "faction": "Blob",
+    "cost": 1,
+    "abilities": {
+        "primary": [
+            {
+                "ability_type": "resource",
+                "description": "description",
+                "args": {
+                    "trade": 1,
+                    "combat": 1,
+                    "authority": 1
+                }
+            }
+        ],
+        "ally": [
+            {
+                "ability_type": "resource",
+                "description": "description",
+                "args": {
+                    "trade": 1,
+                    "combat": 1,
+                    "authority": 1
+                }
+            }
+        ],
+        "scrap": [
+            {
+                "ability_type": "resource",
+                "description": "description",
+                "args": {
+                    "trade": 1,
+                    "combat": 1,
+                    "authority": 1
+                }
+            }
+        ]
+    }
+}

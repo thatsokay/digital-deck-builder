@@ -1,0 +1,28 @@
+.Board {
+  height: 100vh;
+  display: grid;
+  grid-template-columns: repeat(20, 5vw);
+  grid-template-rows: repeat(5, 20vh);
+}
+
+.own-play, .opponent-play {
+  grid-column: span 17;
+}
+
+.own-hand, .opponent-hand, .trade-row {
+  grid-column: span 14;
+}
+
+.own-draw, .opponent-draw, .trade-deck, .own-discard, .opponent-discard, .trash-pile {
+  grid-column: span 3;
+}
+
+.own-stats, .opponent-stats {
+  grid-column: span 3;
+  text-align: center;
+  margin: auto;
+}
+
+.stat {
+  margin: 0.25rem;
+}

@@ -1,0 +1,202 @@
+[
+    {
+        "quantity": 1,
+        "card": {
+            "name": "Ship 1",
+            "card_type": "Ship",
+            "faction": [],
+            "cost": 0,
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "resource",
+                        "description": "1 Trade",
+                        "args": {
+                            "trade": 1
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "quantity": 1,
+        "card": {
+            "name": "Ship 2",
+            "card_type": "Ship",
+            "faction": [],
+            "cost": 0,
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "resource",
+                        "description": "1 Trade",
+                        "args": {
+                            "trade": 1
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "quantity": 1,
+        "card": {
+            "name": "Ship 3",
+            "card_type": "Ship",
+            "faction": [],
+            "cost": 0,
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "resource",
+                        "description": "1 Trade",
+                        "args": {
+                            "trade": 1
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "quantity": 1,
+        "card": {
+            "name": "Ship 4",
+            "card_type": "Ship",
+            "faction": [],
+            "cost": 0,
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "resource",
+                        "description": "1 Trade",
+                        "args": {
+                            "trade": 1
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "quantity": 1,
+        "card": {
+            "name": "Ship 5",
+            "card_type": "Ship",
+            "faction": [],
+            "cost": 0,
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "resource",
+                        "description": "1 Trade",
+                        "args": {
+                            "trade": 1
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "quantity": 1,
+        "card": {
+            "name": "Ship 6",
+            "card_type": "Ship",
+            "faction": [],
+            "cost": 0,
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "resource",
+                        "description": "1 Trade",
+                        "args": {
+                            "trade": 1
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "quantity": 1,
+        "card": {
+            "name": "Ship 7",
+            "card_type": "Ship",
+            "faction": [],
+            "cost": 0,
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "resource",
+                        "description": "1 Trade",
+                        "args": {
+                            "trade": 1
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "quantity": 1,
+        "card": {
+            "name": "Ship 8",
+            "card_type": "Ship",
+            "faction": [],
+            "cost": 0,
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "resource",
+                        "description": "1 Trade",
+                        "args": {
+                            "trade": 1
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "quantity": 1,
+        "card": {
+            "name": "Ship 9",
+            "card_type": "Ship",
+            "faction": [],
+            "cost": 0,
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "resource",
+                        "description": "1 Trade",
+                        "args": {
+                            "trade": 1
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "quantity": 1,
+        "card": {
+            "name": "Ship 10",
+            "card_type": "Ship",
+            "faction": [],
+            "cost": 0,
+            "abilities": {
+                "primary": [
+                    {
+                        "ability_type": "resource",
+                        "description": "1 Trade",
+                        "args": {
+                            "trade": 1
+                        }
+                    }
+                ]
+            }
+        }
+    }
+]

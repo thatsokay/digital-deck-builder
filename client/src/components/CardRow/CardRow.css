@@ -1,0 +1,10 @@
+.CardRow {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.empty {
+  width: 10rem;
+  margin: 0.4rem;
+}
